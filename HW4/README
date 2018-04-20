@@ -1,0 +1,4 @@
+Final project for cmps128:
+kvs.py is the main file which contains all routes needed for this project
+vectorClock.py contains several common function about vector clock
+Dockerfile is used to build docker image

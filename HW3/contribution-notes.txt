@@ -1,0 +1,8 @@
+azhao7
+found bugs and worked on debugging
+xzhu27
+Wrote most of the code/comment in kvs.py and dockerfile
+mwei6
+tested the program and found bugs
+qhe12
+tested the program on postman and fixed some bugs
