@@ -1,2 +1,2 @@
 # key-valuestore
-This is a Fault tolerance scalable key value store
+This is a Fault Tolerant and Scalable Key-value Store
